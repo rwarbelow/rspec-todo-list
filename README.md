@@ -17,10 +17,6 @@ When writing unit tests, be wary of the temptation to **test too deeply**, i.e. 
 
 ## Objectives
 
-### Grab the files from the gist
-
-Download the files from [the gist](https://gist.github.com/dbc-challenges/2f6973cad74bd41fb86b).  You will find two application files: `list.rb` and `task.rb` and two spec files `list_spec.rb` and `task_spec.rb`.
-
 You can run the spec suite like so:
 
 ```bash
